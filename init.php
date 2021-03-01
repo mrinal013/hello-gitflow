@@ -9,7 +9,7 @@ function custom_post_type() {
 	$labels = array(
 		'name'                  => _x( 'Post Types', 'Post Type General Name', 'text_domain' ),
 		'singular_name'         => _x( 'Post Type', 'Post Type Singular Name', 'text_domain' ),
-		'menu_name'             => __( 'Post Types', 'text_domain' ),
+		'menu_name'             => __( 'Post Types 3', 'text_domain' ),
 		'name_admin_bar'        => __( 'Post Type', 'text_domain' ),
 		'archives'              => __( 'Item Archives', 'text_domain' ),
 		'attributes'            => __( 'Item Attributes', 'text_domain' ),
